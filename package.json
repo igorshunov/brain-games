@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "ty[e": "module",
+  "style": "module",
   "description": "brain games",
   "main": "index.js",
   "bin": {
